@@ -1,0 +1,12 @@
+﻿@model CarService.Models.MaintanceDetailsViewModel
+
+<div>
+    Maitenance is reserved for @Model.CustomerName @Model.CustomerSurname at @Model.DateTime.ToShortDateString() @Model.DateTime.ToShortTimeString().
+</div>
+<div>
+    Car: @Model.Car.Brand @Model.Car.Model @Model.Car.Version
+
+</div>
+<div>
+    Price: @Model.Price $
+</div>

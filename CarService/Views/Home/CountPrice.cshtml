@@ -1,0 +1,8 @@
+﻿
+@model CarService.Models.CountPriceViewModel
+
+<h3>Choose services:</h3>
+@foreach (var service in Model.Services)
+{
+    <div>@Html.ActionLink($"{service.Name} - {service.MarkUp}$", "MaintenanceDetails", new {  maintenanceId = Model.MaintenanceId, markUp = service.MarkUp })</div>
+}

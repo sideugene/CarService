@@ -1,0 +1,16 @@
+C:\Users\opupe\source\repos\MaintenanceService\Maintenance.Data\bin\Debug\Maintenance.Data.dll
+C:\Users\opupe\source\repos\MaintenanceService\Maintenance.Data\bin\Debug\Maintenance.Data.pdb
+C:\Users\opupe\source\repos\MaintenanceService\Maintenance.Data\obj\Debug\MaintenanceService.Data.csprojAssemblyReference.cache
+C:\Users\opupe\source\repos\MaintenanceService\Maintenance.Data\obj\Debug\Maintenance.Data.dll
+C:\Users\opupe\source\repos\MaintenanceService\Maintenance.Data\obj\Debug\Maintenance.Data.pdb
+E:\MaintenanceService\Maintenance.Data\bin\Debug\Maintenance.Data.dll
+E:\MaintenanceService\Maintenance.Data\bin\Debug\Maintenance.Data.pdb
+E:\MaintenanceService\Maintenance.Data\obj\Debug\MaintenanceService.Data.csprojAssemblyReference.cache
+E:\MaintenanceService\Maintenance.Data\obj\Debug\Maintenance.Data.dll
+E:\MaintenanceService\Maintenance.Data\obj\Debug\Maintenance.Data.pdb
+C:\D\KPI\kicha\MaintenanceService\Maintenance.Data\bin\Debug\Maintenance.Data.dll
+C:\D\KPI\kicha\MaintenanceService\Maintenance.Data\bin\Debug\Maintenance.Data.pdb
+C:\D\KPI\kicha\MaintenanceService\Maintenance.Data\obj\Debug\MaintenanceService.Data.csprojAssemblyReference.cache
+C:\D\KPI\kicha\MaintenanceService\Maintenance.Data\obj\Debug\MaintenanceService.Data.csproj.CoreCompileInputs.cache
+C:\D\KPI\kicha\MaintenanceService\Maintenance.Data\obj\Debug\Maintenance.Data.dll
+C:\D\KPI\kicha\MaintenanceService\Maintenance.Data\obj\Debug\Maintenance.Data.pdb

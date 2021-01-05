@@ -1,0 +1,17 @@
+E:\MaintenanceService\MaintenanceService.Domain\bin\Debug\MaintenanceService.Domain.dll
+E:\MaintenanceService\MaintenanceService.Domain\bin\Debug\MaintenanceService.Domain.pdb
+E:\MaintenanceService\MaintenanceService.Domain\bin\Debug\Maintenance.Data.dll
+E:\MaintenanceService\MaintenanceService.Domain\bin\Debug\Maintenance.Data.pdb
+E:\MaintenanceService\MaintenanceService.Domain\obj\Debug\MaintenanceService.Domain.csprojAssemblyReference.cache
+E:\MaintenanceService\MaintenanceService.Domain\obj\Debug\MaintenanceService.Domain.csproj.CopyComplete
+E:\MaintenanceService\MaintenanceService.Domain\obj\Debug\MaintenanceService.Domain.dll
+E:\MaintenanceService\MaintenanceService.Domain\obj\Debug\MaintenanceService.Domain.pdb
+C:\D\KPI\kicha\MaintenanceService\MaintenanceService.Domain\bin\Debug\MaintenanceService.Domain.dll
+C:\D\KPI\kicha\MaintenanceService\MaintenanceService.Domain\bin\Debug\MaintenanceService.Domain.pdb
+C:\D\KPI\kicha\MaintenanceService\MaintenanceService.Domain\bin\Debug\Maintenance.Data.dll
+C:\D\KPI\kicha\MaintenanceService\MaintenanceService.Domain\bin\Debug\Maintenance.Data.pdb
+C:\D\KPI\kicha\MaintenanceService\MaintenanceService.Domain\obj\Debug\MaintenanceService.Domain.csprojAssemblyReference.cache
+C:\D\KPI\kicha\MaintenanceService\MaintenanceService.Domain\obj\Debug\MaintenanceService.Domain.csproj.CoreCompileInputs.cache
+C:\D\KPI\kicha\MaintenanceService\MaintenanceService.Domain\obj\Debug\MaintenanceService.Domain.csproj.CopyComplete
+C:\D\KPI\kicha\MaintenanceService\MaintenanceService.Domain\obj\Debug\MaintenanceService.Domain.dll
+C:\D\KPI\kicha\MaintenanceService\MaintenanceService.Domain\obj\Debug\MaintenanceService.Domain.pdb
